@@ -20,6 +20,3 @@ export default function RootLayout({ children }) {
     </html>
   );
 }
-
-git config --global user.name "vamshi-ande"
-git config --global user.email "andevamshi288@gmail.com"
